@@ -24,7 +24,7 @@ def get_info():
 
     # github URLs
     github_file_url = (
-        "https://github.com/Mahlet2123/HNG-Internship-X_Backend_Track_Tasks"
+        "https://github.com/Mahlet2123/HNG-Internship-X_Backend_Track_Tasks/blob/main/app.py"
     )
     github_repo_url = (
         "https://github.com/Mahlet2123/HNG-Internship-X_Backend_Track_Tasks"
