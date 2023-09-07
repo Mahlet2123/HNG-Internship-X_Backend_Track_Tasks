@@ -20,7 +20,7 @@ def get_info():
 
     # Get the current UTC time with validation of +/-2 minutes
     current_time = datetime.datetime.now(pytz.UTC)
-    current_time_str = current_time.strftime("%Y-%m-%dT%H:%M:%SZ")
+    current_time_str = current_time.strftime("%Y-%m-%dT%H:%M:%S") + "Z"
 
     # github URLs
     github_file_url = (
